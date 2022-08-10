@@ -8,9 +8,9 @@ This free game is an attempt at articulating, through gameplay, the most fundame
 2. Installation instructions
 
 For windows:  
-	* download the files  
-	* install java on your machine  
-	* run “java -jar SimpleShooter.jar” in a command shell at the appropriate file location.
+	- download the files  
+	- install java on your machine  
+	- run “java -jar SimpleShooter.jar” in a command shell at the appropriate file location.
 
 For linux:  
 	- download the files  
