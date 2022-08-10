@@ -1,26 +1,24 @@
 1. Description
-==============
+--------------
 
 This free game is an attempt at articulating, through gameplay, the most fundamental essence of a single player shooting experience. Each feature is intended to conceptuality feed unto each other in the most streamlined possible way.
 
 
 2. Installation instructions
-============================
+----------------------------
 
 For windows:  
-------------
-	download the files  
-	install java on your machine  
-	run “java -jar SimpleShooter.jar” in a command shell at the appropriate file location.
+	* download the files  
+	* install java on your machine  
+	* run “java -jar SimpleShooter.jar” in a command shell at the appropriate file location.
 
 For linux:  
-----------
-	download the files  
-	install java on your machine  
-	run “java -jar SimpleShooter.jar” in a command shell at the appropriate file location.
+	- download the files  
+	- install java on your machine  
+	- run “java -jar SimpleShooter.jar” in a command shell at the appropriate file location.
 
 3. Game instructions
-====================
+--------------------
 
 The player (the white ball) exists on one of three circular terrains (red, green and blue). The player automatically shoots bullets at a constant rate. Targets spawn around the player, shooting their own bullets. These bullets rebound on the edges of the world. When one such bullet hits the player, the world shrinks, until there is no longer any room for the player to move. At that moment the player transitions to the next terrain (which may still have old, undestroyed targets).
 
@@ -34,7 +32,7 @@ After 10 minutes, the spawning targets are no longer capable of being destroyed 
 
 
 4. Key bindings
-===============
+---------------
 
 Key “**A**” or Arrow “**Left**”: move counterclockwise  
 Key “**D**” or Arrow “**Right**”: move clockwise  
@@ -45,7 +43,7 @@ Mouse “**Right**” Button: activate the large, sweeping bullet
 Mouse Position: aim direction
 
 5. Bugs/updates
-===============
+---------------
 
 There will be no fix nor maintenance of any kind. If the game does not work, you should first attempt to update your graphic drivers. If that fails, consider deletion of the game on your computer.
 
@@ -55,7 +53,7 @@ This game has been created on a dying computer by an overextended homeless man.
 
 
 6. Support
-==========
+----------
 
 If you enjoyed this game, consider contributing one dollar towards my next bowl of stew at https://www.patreon.com/RenegadePariah
 
