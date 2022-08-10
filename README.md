@@ -5,15 +5,15 @@ This free game is an attempt at articulating, through gameplay, the most fundame
 
 2. Installation instructions
 
-For windows:
-	\ndownload the files
-	\ninstall java on your machine
-	\nrun “java -jar SimpleShooter.jar” in a command shell at the appropriate file location.
+For windows:  
+	download the files  
+	install java on your machine  
+	run “java -jar SimpleShooter.jar” in a command shell at the appropriate file location.
 
-For linux:
-	-download the files
-	-install java on your machine
-	-run “java -jar SimpleShooter.jar” in a command shell at the appropriate file location.
+For linux:  
+	download the files  
+	install java on your machine  
+	run “java -jar SimpleShooter.jar” in a command shell at the appropriate file location.
 
 3. Game instructions
 
@@ -30,12 +30,12 @@ After 10 minutes, the spawning targets are no longer capable of being destroyed 
 
 4. Key bindings
 
-Key “**A**” or Arrow “**Left**”: move counterclockwise
-Key “**D**” or Arrow “**Right**”: move clockwise
-Key “**Escape**”: quit the game
-Key “**Spacebar**”: toggle pause or remove the splash image
-Key “**F11**”: toggle fullscreen
-Mouse “**Right**” Button: activate the large, sweeping bullet
+Key “**A**” or Arrow “**Left**”: move counterclockwise  
+Key “**D**” or Arrow “**Right**”: move clockwise  
+Key “**Escape**”: quit the game  
+Key “**Spacebar**”: toggle pause or remove the splash image  
+Key “**F11**”: toggle fullscreen  
+Mouse “**Right**” Button: activate the large, sweeping bullet  
 Mouse Position: aim direction
 
 5. Bugs/updates
