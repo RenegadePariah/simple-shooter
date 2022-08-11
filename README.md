@@ -50,9 +50,3 @@ Mouse Position: aim direction
 There will be no fix nor maintenance of any kind. If the game does not work, you should first attempt to update your graphic drivers. If that fails, consider deletion of the game on your computer.
 
 If you experience difficulty changing the dimensions of the window, it could help to only resize while the splash image is still visible.
-
----
-
-6. Support
-
-If you enjoyed this game, consider contributing one dollar towards my next bowl of stew at https://www.patreon.com/RenegadePariah
