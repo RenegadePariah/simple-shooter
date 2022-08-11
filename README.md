@@ -51,12 +51,8 @@ There will be no fix nor maintenance of any kind. If the game does not work, you
 
 If you experience difficulty changing the dimensions of the window, it could help to only resize while the splash image is still visible.
 
-This game has been created on a dying computer by an overextended homeless man.
-
 ---
 
 6. Support
 
 If you enjoyed this game, consider contributing one dollar towards my next bowl of stew at https://www.patreon.com/RenegadePariah
-
-My complete programming focus is going towards my next game, nicknamed “Shapes Round”. That game will also be published, irregardless of whether or not it falls within a grace period.
